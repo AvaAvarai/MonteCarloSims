@@ -1,0 +1,3 @@
+The goal of the first experiment is to recreate the demo on wikipedia.
+Using Monte-Carlo method to sample a circular space and approximate pi.
+see: https://en.wikipedia.org/wiki/Monte_Carlo_method

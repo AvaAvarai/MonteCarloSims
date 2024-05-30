@@ -1,0 +1,1 @@
+Transfer "energy" represented as color from cold (blue) to hot (red) between particles during collision.
